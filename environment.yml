@@ -1,0 +1,20 @@
+name: R
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=3.4.1
+  - r-d3heatmap
+  - r-diagrammer
+  - r-dt
+  - r-dygraphs
+  - r-highcharter
+  - r-irkernel
+  - r-leaflet
+  - r-networkd3
+  - r-plotly
+  - r-rbokeh
+  - r-threejs
+  - r-visnetwork
+  - jupyter
+  - nb_conda_kernels
